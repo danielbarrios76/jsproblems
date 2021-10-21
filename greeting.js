@@ -1,12 +1,15 @@
 /*
 example program object in js
+only say message in console log
 */
 
 const greeting = {
-    name: '',
+    name: '?', //no name
     sayHi: () => console.log('Hi, ${greeting.name}')
 }
 
+
+//run
 greeting.sayHi();
 
 greeting.name = 'Thomas';
