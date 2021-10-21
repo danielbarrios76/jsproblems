@@ -1,2 +1,3 @@
-# jsproblems
-first programs js examples 
+# js problems
+first programs - js examples -
+#Happy Hacktoberfest
